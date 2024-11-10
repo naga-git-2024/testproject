@@ -1,0 +1,14 @@
+[
+    {
+        "sku": 85294241,
+        "isTaxable": false,
+        "ownBrand": true,
+        "price": 3.61
+    }
+    {
+        "sku": 95422042,
+        "isTaxable": false,
+        "ownBrand": false,
+        "price": 3.31
+    }
+]
